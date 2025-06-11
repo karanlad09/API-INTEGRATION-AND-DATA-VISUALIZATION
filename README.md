@@ -2,9 +2,9 @@
 
 COMPANY : CODTECH IT SOLUTIONS
 
-NAME : SIDDHI DEEPAK YEWALE
+NAME : KARAN SANJEEV LAD
 
-INTERN ID : CT04DN282
+INTERN ID : CT04DN289
 
 DOMAIN : PYTHON
 
@@ -45,3 +45,4 @@ Plots the data using different colors for each coin.
 
 ## Output: 
 
+![Image](https://github.com/user-attachments/assets/8fc28da0-5656-4e8f-a48e-010a4e62a141)
